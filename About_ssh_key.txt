@@ -1,1 +1,4 @@
 An SSH key is an access credential in the SSH protocol. Its function is similar to that of user names and passwords, but the keys are primarily used for automated processes and for implementing single sign-on by system administrators and power users.
+
+
+##SSH (Secure Shell) is used for managing networks, operating systems, and configurations. It is also inside many file transfer tools and configuration management tools. Every major corporation uses it, in every data center.
